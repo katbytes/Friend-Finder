@@ -1,16 +1,21 @@
 var friends = [
   {
-    name: "Ahmed",
-    photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name: "Draggy",
+    photo: "/../assets/imgs/draggy.jpg",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Frank",
+    name: "Wolfgang",
     photo:
-      "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "/../assets/imgs/wolfgang.jpg",
     scores: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   },
+  {
+    name: "Geppetto",
+    photo:
+      "/../assets/imgs/geppetto.jpg",
+    scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  }
 ];
 
 module.exports = friends;
