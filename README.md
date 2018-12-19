@@ -2,7 +2,7 @@
 This activity is a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This application will use Express to handle routing and is deployed to Heroku.
 
 ## Getting Started
-* https://warm-journey-94281.herokuapp.com/ (`Heroku`)
+* https://katbytes-friendfinder.herokuapp.com/ (`Heroku`)
 * https://katbytes.github.io/Friend-Finder/app/public/home.html (`GitHub`)
 
 ## Screen Shots
