@@ -35,19 +35,22 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 
 ### Basic Architecture:
 FriendFinder
-  - .gitignore
-  - app
-    - data
-      - friends.js
-    - public
-      - home.html
-      - survey.html
-    - routing
-      - apiRoutes.js
-      - htmlRoutes.js
-  - node_modules
-  - package.json
-  - server.js
+  ```
+  FriendFinder
+    - .gitignore
+    - app
+      - data
+        - friends.js
+      - public
+        - home.html
+        - survey.html
+      - routing
+        - apiRoutes.js
+        - htmlRoutes.js
+    - node_modules
+    - package.json
+    - server.js
+  ```
 ### Instructions:
 https://katbytes.github.io/Friend-Finder/app/assets/misc/homework_instructions 
 
