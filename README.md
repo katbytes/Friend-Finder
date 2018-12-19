@@ -34,7 +34,6 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 * Font Awesome - Font & Icon Toolkit
 
 ### Basic Architecture:
-FriendFinder
   ```
   FriendFinder
     - .gitignore
