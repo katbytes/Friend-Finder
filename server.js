@@ -4,7 +4,8 @@ var path = require("path");
 
 // Express application settings
 var app = express();
-var PORT = 3000;
+var PORT = proceess.env.PORT || 3000;
+// HEROKU & LOCAL INFO
 
 // parsing incoming request bodies (middleware)
 app.use(express.urlencoded({ extended: true }));
