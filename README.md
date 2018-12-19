@@ -7,16 +7,16 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 
 ## Screen Shots
 ![Screen shot](https://katbytes.github.io/Friend-Finder/app/assets/imgs/screen_1.png)
-`Index Page &#8673;`
+`Index Page`&#8673;
 
 ![Screen shot 2](https://katbytes.github.io/Friend-Finder/app/assets/imgs/screen_2.png)
-`Survey Top &#8673;`
+`Survey Top`&#8673;
 
 ![Screen shot 3](https://katbytes.github.io/Friend-Finder/app/assets/imgs/screen_3.png)
-`Survey Bottom &#8673;`
+`Survey Bottom`&#8673;
 
 ![Screen shot 4](https://katbytes.github.io/Friend-Finder/app/assets/imgs/screen_4.png)
-`Friend Result &#8673;`
+`Friend Result`&#8673;
 
 ## Technologies used
 - Node.js
