@@ -27,7 +27,6 @@ Friend Result
 - nodemon NPM Package - https://www.npmjs.com/package/nodemon
 
 ### Basic Architecture
-	```
 	FriendFinder
 		- app
         	- assets
@@ -47,7 +46,6 @@ Friend Result
 		- node_modules
 		- package.json
 		- server.js
-	```
 ## Built With
 * Visual Studio Code - IDE
 * Materialize - CSS Framework
@@ -56,4 +54,4 @@ Friend Result
 https://katbytes.github.io/Friend-Finder/app/assets/misc/homework_instructions 
 
 ## Author
-* **Katherine J. Bell** [Katherine J. Bell](https://github.com/katbytes)
+[Katherine J. Bell](https://github.com/katbytes)
