@@ -1,4 +1,4 @@
-# &#35; Friend Finder <img src="https://img.icons8.com/color/50/000000/date.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/novel.png">
+# &#35; Friend Finder&nbsp;<img src="https://img.icons8.com/color/50/000000/date.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/novel.png">
 This activity is a compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site will take in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. This application will use Express to handle routing and is deployed to Heroku.
 
 ## Getting Started:
