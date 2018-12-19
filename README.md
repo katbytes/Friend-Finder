@@ -50,7 +50,7 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
     - package.json
     - server.js
   ```
-[Instructions](https://katbytes.github.io/Friend-Finder/app/assets/misc/homework_instructions)
+* [Detailed Instructions](https://katbytes.github.io/Friend-Finder/app/assets/misc/homework_instructions)
 
 ## About the Author:
 [Katherine J. Bell](https://github.com/katbytes)
