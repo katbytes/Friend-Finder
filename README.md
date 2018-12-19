@@ -18,11 +18,20 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 ![Screen shot 4](https://katbytes.github.io/Friend-Finder/app/assets/imgs/screen_4.png)
 `Friend Result`&#8673;
 
-## Technologies used
+## Technologies Used
 - Node.js
 - express NPM Package - https://www.npmjs.com/package/express
 - path NPM Package - https://www.npmjs.com/package/path
 - nodemon NPM Package - https://www.npmjs.com/package/nodemon
+* Visual Studio Code - IDE
+* jQuery - JavaScript CDN
+* AJAX - Asynchronous JavaScript And XML
+* JSON - JavaScript Object Notation
+* Chosen - jQuery plugin
+* Heroku -  Cloud Platform Programming Language Support
+* Bootstrap - HTML, CSS, and JS Framework
+* Materialize - CSS Framework
+* Font Awesome - Font & Icon Toolkit
 
 ### Basic Architecture
 	FriendFinder
@@ -39,10 +48,6 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 		- node_modules
 		- package.json
 		- server.js
-## Built With
-* Visual Studio Code - IDE
-* Materialize - CSS Framework
-
 ### Instructions
 https://katbytes.github.io/Friend-Finder/app/assets/misc/homework_instructions 
 
