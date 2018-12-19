@@ -3,25 +3,25 @@ var friends = [
     name: "Brad",
     photo:
       "https://raw.githubusercontent.com/katbytes/Friend-Finder/master/app/assets/imgs/brad.jpg",
-    scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    scores: [1, 2, 3, 5, 4, 5, 5, 2, 1, 2]
   },
   {
     name: "Mark",
     photo:
       "https://raw.githubusercontent.com/katbytes/Friend-Finder/master/app/assets/imgs/eben.jpg",
-    scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    scores: [3, 2, 3, 2, 5, 3, 1, 3, 4, 5]
   },
   {
     name: "Katherine",
     photo:
       "https://raw.githubusercontent.com/katbytes/Friend-Finder/master/app/assets/imgs/kat.jpg",
-    scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    scores: [3, 4, 5, 1, 1, 5, 5, 3, 2, 2]
   },
   {
     name: "Lily",
     photo:
       "https://raw.githubusercontent.com/katbytes/Friend-Finder/master/app/assets/imgs/lily.jpg",
-    scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    scores: [2, 4, 5, 1, 1, 1, 4, 4, 5, 5]
   },
   {
     name: "Draggy",
