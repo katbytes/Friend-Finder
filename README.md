@@ -3,7 +3,6 @@ This activity is a compatibility-based "FriendFinder" application -- basically a
 
 ## Getting Started:
 * https://katbytes-friendfinder.herokuapp.com/ (`Heroku`)
-* https://katbytes.github.io/Friend-Finder/app/public/home.html (`GitHub`)
 
 ## Screenshots:
 ![Screenshot](https://katbytes.github.io/Friend-Finder/app/assets/imgs/screen_1.png)
